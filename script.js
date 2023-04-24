@@ -2,9 +2,7 @@
 const images = [
   {url: 'https://via.placeholder.com/150/FF0000/FFFFFF'},
   {url: 'https://via.placeholder.com/150/00FF00/FFFFFF'},
-  {url: 'https://via.placeholder.com/150/0000FF/FFFFFF'},
-  {url: 'https://via.placeholder.com/150/FFFF00/FFFFFF'},
-  {url: 'https://via.placeholder.com/150/FF00FF/FFFFFF'},
+  {url: 'https://via.placeholder.com/150/0000FF/FFFFFF'}
 ];
 
 const downloadImagesButton = document.getElementById('download-images-button');
