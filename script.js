@@ -1,8 +1,8 @@
 //your JS code here. If required.
 const images = [
-  {url: 'https://via.placeholder.com/150/FF0000/FFFFFF'},
-  {url: 'https://via.placeholder.com/150/00FF00/FFFFFF'},
-  {url: 'https://via.placeholder.com/150/0000FF/FFFFFF'}
+{ url: "https://picsum.photos/id/237/200/300" },
+{ url: "https://picsum.photos/id/238/200/300" },
+{ url: "https://picsum.photos/id/239/200/300" },
 ];
 
 const downloadImagesButton = document.getElementById('download-images-button');
